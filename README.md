@@ -1,5 +1,5 @@
 # hello-world
-Learning GitHub: 
+I've Learned GitHub:
 - merging conflicts
 
 ## This project is merely to learn GitHub
