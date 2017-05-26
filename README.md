@@ -1,5 +1,6 @@
 # hello-world
-Learning GitHub
+Learning GitHub: 
+- merging conflicts
 
 ## This project is merely to learn GitHub
 So don't expect any sophisticated code here.
