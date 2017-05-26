@@ -1,5 +1,5 @@
 # hello-world
-Learning GitHub
+I've Learned GitHub
 
 ## This project is merely to learn GitHub
 So don't expect any sophisticated code here.
